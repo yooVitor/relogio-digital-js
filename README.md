@@ -1,7 +1,7 @@
 <h1 align="center"> Relógio Digital </h1>
 
 <p align="center">
-Relogio Digital contruido com HTML, CSS e JavaScript 
+Relogio Digital contruído com HTML, CSS e JavaScript 
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um relógio digital que funciona com base na data e hora do usuario.
+Um relógio digital que funciona com base na data e hora do usuário.
 
 - [Acesse o projeto finalizado, online](https://yoovitor.github.io/relogio-digital-js)
 
